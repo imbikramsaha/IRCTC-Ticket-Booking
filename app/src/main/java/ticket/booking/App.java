@@ -118,5 +118,9 @@ public class App {
             }
         }
     }
+
+    public Object getGreeting() {
+        return "Hello, welcome to the IRCTC Train Booking System!";
+    }
 }
 
